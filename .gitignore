@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+*.app/Contents/MacOS/
+*.app/Contents/_CodeSignature/
+*.app/Contents/CodeResources
+*.zip
+*.dmg
+*.log
